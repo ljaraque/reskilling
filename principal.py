@@ -13,3 +13,5 @@ for alumno in nombres:
 
 for variable, valor in vars(config).items():
     print(variable, valor)
+
+print("hola aquí vamos")
