@@ -15,3 +15,5 @@ PAIS = "CHILE"
 
 PROFESOR = "LjARAQUEGIT"
 
+MODULO = 'Git'
+COMANDOS = ['add', 'commit', 'push', 'pull']
