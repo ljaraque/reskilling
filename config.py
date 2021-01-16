@@ -18,3 +18,5 @@ PROFESOR = "LjARAQUEGIT"
 MODULO = 'Git'
 COMANDOS = ['add', 'commit', 'push', 'pull']
 HORARIO = "VESPERTINO LUNES A DOMINGOS"
+
+COMUNA = 'Cumpeo'
